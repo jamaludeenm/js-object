@@ -60,13 +60,10 @@ document.write("<br>")
 {
 let  school={
 	name:"Nehru",
-    location:"tenkasi",
-	establishedin:"1999",
-	dispaly:function(){
-	{school.name} school was establishedin {school.establishedin} in {school.location}};
-		
+    place:"tenkasi",
+	establishedin:"1999"
 }
-document.write(school.dispaly)
+document.write(school.place)
 document.write("<br>")
 }
 
