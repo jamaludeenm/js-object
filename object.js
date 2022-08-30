@@ -37,3 +37,37 @@ let deliveryApp={
 document.write(deliveryApp.agents)
 document.write("<br>")
 }
+{
+let person={
+	name:"rajubhai",
+    age:"24",
+	gender:"male",
+	martialstatus:"single"
+}
+document.write(person.age)
+document.write("<br>")
+}
+{
+let shirt={
+	brand:"otto",
+    color:"white",
+	size:"32",
+	model_no:"Gh56vf"
+}
+document.write(shirt.brand)
+document.write("<br>")
+}
+{
+let  school={
+	name:"Nehru",
+    location:"tenkasi",
+	establishedin:"1999",
+	dispaly:function(){
+	{school.name} school was establishedin {school.establishedin} in {school.location}};
+		
+}
+document.write(school.dispaly)
+document.write("<br>")
+}
+
+
