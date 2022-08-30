@@ -57,17 +57,3 @@ let shirt={
 document.write(shirt.brand)
 document.write("<br>")
 }
-{
-let  school={
-	name:"Nehru",
-    location:"tenkasi",
-	establishedin:"1999",
-	dispaly:function(){
-	{school.name} school was establishedin {school.establishedin} in {school.location}};
-		
-}
-document.write(school.dispaly)
-document.write("<br>")
-}
-
-
